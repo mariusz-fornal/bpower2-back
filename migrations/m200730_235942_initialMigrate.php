@@ -24,6 +24,15 @@ class m200730_235942_initialMigrate extends Migration
             'status' => Schema::TYPE_INTEGER,
             'owner' => Schema::TYPE_STRING,
         ]);
+
+        $this->batchInsert('status', [
+               'name'
+            ], [
+               ['Todo'],
+               ['In progress'],
+               ['Done']
+            ]
+        );
     }
 
     /**

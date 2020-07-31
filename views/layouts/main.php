@@ -9,8 +9,9 @@
     <link rel="stylesheet"
           href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.16.0/themes/prism.css" />
-    <link rel="stylesheet" href="css/styles.3ff695c00d717f2d2a11.css"></head>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/styles.e966cae42703c0f4432f.css"></head>
 <body>
 <app-root></app-root>
-<script src="js/runtime.e227d1a0e31cbccbf8ec.js" defer></script><script src="js/polyfills.899a226c1c5040cba0ec.js" defer></script><script src="js/main.4ccb2dc996a88e4bd6cc.js" defer></script></body>
+<script src="js/runtime.e227d1a0e31cbccbf8ec.js" defer></script><script src="js/polyfills.673885ad85f7915fe3d9.js" defer></script><script src="js/main.8e0a18a377811e0642e5.js" defer></script></body>
 </html>
